@@ -1,5 +1,6 @@
 # zelfologi
-A case study related to a health care service provider Zelfologi
+A case study related to a health care service provider Zelfologi.
+
 There are availability, bookings, and ad-hoc blocks of 6 practitioners.
 
 (1) Write a query to prepare a visualization data mart to cover the period between 2022-02-21 and 2022-02-25. Working hours information is specified for weekly calculations, but we should apply this only for 5 working days. It is recommended to upload the datasets to any database. SQL dialect isn't important, but you can make sure that your query is flawless.
