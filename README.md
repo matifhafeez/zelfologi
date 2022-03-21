@@ -11,3 +11,7 @@ There are availability, bookings, and ad-hoc blocks of 6 practitioners.
 
 You are free to use any visualizations available in GDS.
 Let's think like the time of practitioners is granulated by hours. So the treatment sessions and breaks should be aliquot to 1 hour.
+
+I had uploaded the data in the Sql Server and then performed all the sql analysis. 
+You can view the report using the following link
+https://datastudio.google.com/reporting/6a7eead3-5573-49c2-97e2-fc4b8431ee10/page/p_qz0bkd95rc
